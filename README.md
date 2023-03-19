@@ -1,6 +1,6 @@
 # PAO_grupa_234
 Programare avansata pe obiecte 
-Fiecare student va lucra la un proiect individual. Proiectul este structurat în maimulte etape. Condiția de punctare a proiectelor:
+Fiecare student va lucra la un proiect individual. Proiectul este structurat în mai multe etape. Condiția de punctare a proiectelor:
 
 să nu prezinte erori de compilare
 să se implementeze cerințele date.
