@@ -10,6 +10,7 @@ Termene de predare:
 Etapa I​: 11 aprilie 2021
 Etapa II​: 9 mai 2021
 Etapa III: 26 mai 2021
+
 Etapa I
 1) Definirea sistemului
 Să se creeze o lista pe baza temei alese cu cel puțin 10 acțiuni/interogări care se pot face în cadrul sistemului și o lista cu cel puțin 8 tipuri de obiecte. Acestea se vor detalia intr-un fisier Readme.md
